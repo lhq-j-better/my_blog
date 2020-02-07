@@ -1,1 +1,3 @@
-baseurl: /my_blog
+baseurl: /"my_blog"
+
+encoding: "UTF-8"
